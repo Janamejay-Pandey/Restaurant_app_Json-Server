@@ -1,0 +1,62 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "jay ",
+      "email": "janamejayp1212@gmail.com",
+      "mobile": 7905523141,
+      "address": "pata nhi ",
+      "services": "biryani masala"
+    },
+    {
+      "id": 3,
+      "name": "manoj",
+      "email": "mina@gmail.com",
+      "mobile": 7808867576,
+      "address": "rudrapue",
+      "services": "chay"
+    },
+    {
+      "id": 4,
+      "name": "janamejayp1212@gmail.com",
+      "email": "janamejayp1212@gmail.com",
+      "mobile": 7905523141,
+      "address": "kkvjb",
+      "services": "vkbklblk"
+    }
+  ],
+  "signup": [
+    {
+      "name": "ram",
+      "email": "ram@gamil.com",
+      "mobile": "5678",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "name": "jay",
+      "email": "jay@gmail.com",
+      "mobile": "1234567890",
+      "password": "98765",
+      "id": 2
+    },
+    {
+      "name": "janamejay",
+      "email": "janamejayp1212@gmail.com",
+      "mobile": "8765678934",
+      "password": "jaylove",
+      "id": 3
+    },
+    {
+      "name": "janamejay",
+      "email": "pandey@gmail.com",
+      "mobile": "98989898989",
+      "password": "user",
+      "id": 4
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
